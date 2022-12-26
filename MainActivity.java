@@ -38,14 +38,7 @@ public class MainActivity extends Activity
 					}
 					
 
-					
-
-						// change color_secondary to make the check box red. 
-
-					
-					
-					
-					
+	
 					}});
 					
 	
